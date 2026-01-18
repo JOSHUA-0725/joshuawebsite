@@ -12,6 +12,56 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.THEHOST">
         <activity
+            android:name=".PlaceholderScreen"
+            android:exported="false"
+            android:label="@string/title_activity_placeholder_screen"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".BioScreen"
+            android:exported="false"
+            android:label="@string/title_activity_bio_screen"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".ProfileCard"
+            android:exported="false"
+            android:label="@string/title_activity_profile_card"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".Data"
+            android:exported="false"
+            android:label="@string/title_activity_data"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".ProfileLIstScreen"
+            android:exported="false"
+            android:label="@string/title_activity_profile_list_screen"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".StudentFiveActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_five"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".StudentFourActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_four"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".StudentThreeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_three"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".StudentTwoActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_two"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
+            android:name=".StudentOneActivity"
+            android:exported="false"
+            android:label="@string/title_activity_student_one"
+            android:theme="@style/Theme.THEHOST" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

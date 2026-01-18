@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">THEHOST</string>
+    <string name="title_activity_student_one">StudentOneActivity</string>
+    <string name="title_activity_student_two">StudentTwoActivity</string>
+    <string name="title_activity_student_three">StudentThreeActivity</string>
+    <string name="title_activity_student_four">StudentFourActivity</string>
+    <string name="title_activity_student_five">StudentFiveActivity</string>
+    <string name="title_activity_profile_list_screen">ProfileLIstScreen</string>
+    <string name="title_activity_data">Data</string>
+    <string name="title_activity_profile_card">ProfileCard</string>
+    <string name="title_activity_bio_screen">BioScreen</string>
+    <string name="title_activity_placeholder_screen">PlaceholderScreen</string>
 </resources>
