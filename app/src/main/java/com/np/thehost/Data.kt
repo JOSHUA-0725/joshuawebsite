@@ -12,10 +12,10 @@ data class UserProfile(
 val dreamTeam = listOf(
     UserProfile(
         1,
-        "Juan Dela Cruz",
+        "Joshua P. Lutap",
         "Lead Developer",
-        "Juan is responsible for the core architecture and backend logic of the app.",
-        R.drawable.ic_launcher_foreground
+        "My name is Joshua P. Lutap. I'm 22 years old and I want to be a Lead developer that can help and have fun learning.",
+        R.drawable.joshua
     ),
     UserProfile(
         2,
