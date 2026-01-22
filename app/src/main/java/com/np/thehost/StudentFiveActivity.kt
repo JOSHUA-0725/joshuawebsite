@@ -28,10 +28,10 @@ class StudentFiveActivity : ComponentActivity() {
         setContent {
             THEHOSTTheme {
                 StudentBio(
-                    name = "Jose Rizal",
+                    name = "Kheam Iries Teodoro Hercia",
                     role = "System Architect",
                     bio = "Jose designs scalable and maintainable system structures.",
-                    imageRes = R.drawable.ic_launcher_foreground
+                    imageRes = R.drawable.hercia
                 )
             }
         }
