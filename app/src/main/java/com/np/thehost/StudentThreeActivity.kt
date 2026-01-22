@@ -28,10 +28,10 @@ class StudentThreeActivity : ComponentActivity() {
         setContent {
             THEHOSTTheme {
                 StudentBio(
-                    name = "Pedro Penduko",
+                    name = "Lucero, Zoe journey E.",
                     role = "Data Analyst",
                     bio = "Pedro analyzes data trends and ensures accurate reporting.",
-                    imageRes = R.drawable.ic_launcher_foreground
+                    imageRes = R.drawable.lucero
                 )
             }
         }
