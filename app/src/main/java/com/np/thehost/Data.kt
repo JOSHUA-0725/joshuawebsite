@@ -33,10 +33,10 @@ val dreamTeam = listOf(
     ),
     UserProfile(
         4,
-        "Elena Adarna",
+        "Jasvin Honrada ",
         "Project Manager",
         "Elena oversees planning, deadlines, and team coordination.",
-        R.drawable.ic_launcher_foreground
+        R.drawable.honrada
     ),
     UserProfile(
         5,

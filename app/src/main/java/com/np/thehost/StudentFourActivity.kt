@@ -28,10 +28,10 @@ class StudentFourActivity : ComponentActivity() {
         setContent {
             THEHOSTTheme {
                 StudentBio(
-                    name = "Elena Adarna",
+                    name = "Jasvin Honrada ",
                     role = "Project Manager",
                     bio = "Elena oversees planning, deadlines, and team coordination.",
-                    imageRes = R.drawable.ic_launcher_foreground
+                    imageRes = R.drawable.honrada
                 )
             }
         }
